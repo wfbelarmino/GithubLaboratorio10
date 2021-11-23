@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.exe
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.dll
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\ref\Laboratorio10.dll
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.dll
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\ref\Laboratorio10.dll
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.genruntimeconfig.cache
+C:\PROJETOS\CYBERTRON\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.AssemblyReference.cache
